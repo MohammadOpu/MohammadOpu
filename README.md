@@ -1,7 +1,6 @@
-(https://avatars.githubusercontent.com/u/118257568?v=4)
+![I am web developer](https://avatars.githubusercontent.com/u/118257568?v=4)
 ### Hi there 👋, I am Mohammad Opu
 #### I am web developer
-![I am web developer]
 
 I am a professional web developer ( WordPress expert ). I like to play with code always. Proud to be Muslim and thanks to Allah.
 
