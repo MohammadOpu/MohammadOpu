@@ -1,4 +1,3 @@
-![I am web developer](https://avatars.githubusercontent.com/u/118257568?v=4)
 ### Hi there 👋, I am Mohammad Opu
 #### I am web developer
 
@@ -11,9 +10,6 @@ Skills: WordPress/Git/Express JS/NUDE JS / REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about Web developer 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohammadOpu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mohammad Opu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mohammad Opu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Mohammad Opu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mohammad Opu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://orpononline.com)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
