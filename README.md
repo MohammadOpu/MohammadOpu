@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Mohammad Opu
-#### I am web developer
+#### I am web developer ( WordPress expert )
 
-I am a professional web developer ( WordPress expert ). I like to play with code always. Proud to be Muslim and thanks to Allah.
+I like to play with code always. Proud to be Muslim and thanks to Allah.
 
 Skills: WordPress/Git/Express JS/NUDE JS / REACT / JS / HTML / CSS
 
